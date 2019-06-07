@@ -1,3 +1,23 @@
+## Frontend-Capstone
+
+## ERD
+
+https://dbdiagram.io/d/5cf932e009a99609d61455ba
+
+## MOCKUP
+
+https://app.moqups.com/kDkh5WfxFe/view
+
+## Components
+NAVBAR - STATE
+APPLICATION VIEWS - STATE
+SEARCH - STATE
+SEARCH RESULTS - PROPS FROM SEARCH
+DETAILS - PROPS FROM SEARCH RESULTS
+AUTHENTICATION - PROPS FROM APP VIEWS
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
